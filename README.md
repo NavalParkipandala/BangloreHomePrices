@@ -1,5 +1,7 @@
 # BANGLORE HOME PRICES
 
+![BHP_website](https://github.com/NavalParkipandala/BangloreHomePrices/assets/147399431/bb8ff2fe-3db4-4f53-bc68-889e03384447)
+
 ### Overview
 
 This project aims to predict home prices in Bangalore using data science techniques. It involves building a machine learning model utilizing the Bangalore home prices dataset sourced from Kaggle.com. The model is constructed using Scikit-learn library and Linear Regression algorithm. Additionally, a Python Flask server is developed to serve HTTP requests, allowing users to input home square footage, number of bedrooms, etc., and retrieve predicted prices. The user interface is designed using HTML, CSS, and JavaScript.
